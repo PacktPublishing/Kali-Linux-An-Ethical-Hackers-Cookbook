@@ -30,5 +30,4 @@ import io
 
 * [Mastering Kali Linux for Advanced Penetration Testing - Second Edition](https://www.packtpub.com/networking-and-servers/mastering-kali-linux-advanced-penetration-testing-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787120235)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
